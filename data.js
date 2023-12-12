@@ -91,7 +91,7 @@ const data = {
       urlToImage: "https://images.wsj.net/im-898479/social",
       publishedAt: "2023-12-10T17:38:00Z",
       content:
-        "Cigna abandoned its pursuit of a tie-up with Humana that would have created a roughly $140 billion giant in the health-insurance industry.\r\nThe companies couldnt come to agreement on price and other … [+256 chars]",
+        "Cigna abandoned its pursuit of a tie-up with Humana that would have created a roughly $140 billion giant in the health-insurance industry. The companies couldn't come to an agreement on price and other critical financial terms, leading to this unexpected decision. In response to this shift in strategy, Cigna has announced a significant stock buyback initiative, signaling a commitment to maximizing shareholder value. This strategic move reflects the challenges and complexities involved in orchestrating mergers within the dynamic landscape of health insurance. The decision to forgo the merger highlights the nuanced nature of deal-making in the industry. Despite this setback, Cigna's focus on adapting to market dynamics and prioritizing shareholder returns is evident in the new stock buyback plan. The company aims to infuse liquidity into the market, reinforcing investor confidence in its resilience and commitment to sustained growth.",
     },
     {
       source: {
@@ -106,7 +106,7 @@ const data = {
       urlToImage: "https://images.wsj.net/im-898349/social",
       publishedAt: "2023-12-10T16:32:24Z",
       content:
-        "PHOENIXArizona is poised to take center stage in state-level battles over abortion this week when its highest court weighs whether to allow a near-total ban on the procedure to take effect.\r\nThe case… [+406 chars]",
+        "In a pivotal moment for reproductive rights, Arizona emerges as the next battleground in the ongoing national debate over abortion. The state's Supreme Court is poised to hear arguments that could determine the fate of a near-total ban on the procedure, setting the stage for a high-stakes showdown in 2024. This legal battle underscores the deeply divisive nature of abortion politics, with advocates on both sides closely watching the developments. The outcome in Arizona could have far-reaching implications, influencing the trajectory of abortion legislation and shaping the broader landscape of reproductive rights. As the state takes on a central role in this contentious issue, the eyes of the nation turn to Arizona, where the future of abortion rights and restrictions hangs in the balance. The Supreme Court's decision will reverberate across the country, amplifying the ongoing discourse surrounding women's reproductive health and the legal boundaries of abortion.",
     },
     {
       source: {
@@ -121,7 +121,7 @@ const data = {
       urlToImage: "https://images.wsj.net/im-897802/social",
       publishedAt: "2023-12-10T14:00:00Z",
       content:
-        "The Securities and Exchange Commission is asking investment advisers how they use and oversee artificial intelligence, as agency head Gary Gensler continues to express skepticism about the technology… [+536 chars]",
+        "In a significant development, the Securities and Exchange Commission (SEC) has initiated a comprehensive probe into the utilization of artificial intelligence by investment advisers. This sweeping inquiry comes against the backdrop of Chair Gary Gensler's recurrent expressions of skepticism regarding the use of AI in the financial industry. The SEC's examination seeks to understand how investment advisers integrate AI into their decision-making processes, assess associated risks, and ensure compliance with regulatory standards. As AI technologies continue to gain prominence in the financial sector, regulators are increasingly vigilant about potential implications for market integrity and investor protection. The SEC's move underscores a broader trend of regulatory scrutiny aimed at staying ahead of technological advancements and safeguarding the interests of market participants. As the investigation unfolds, it is poised to shed light on the evolving intersection of finance and artificial intelligence, influencing future regulatory frameworks and shaping the responsible use of AI in investment practices.",
     },
     {
       source: {
