@@ -38,7 +38,7 @@ const data = {
         id: null,
         name: "CNET",
       },
-      category: "Sports",
+      category: "sports",
       author: "Kevin Lynch",
       title:
         "Watch Europa League Soccer: Livestream West Ham vs. Freiburg From Anywhere - CNET",
@@ -56,7 +56,7 @@ const data = {
         id: null,
         name: "CNET",
       },
-      category: "Sports",
+      category: "sports",
       author: "Lexy Savvides",
       title:
         "I Trained With a Champion Cyclist to Test Apple Watch's Custom Workouts - CNET",
@@ -74,7 +74,7 @@ const data = {
         id: null,
         name: "ReadWrite",
       },
-      category: "Sports",
+      category: "sports",
       author: "Paul McNally",
       title: "EAFC 24 players leaked ahead of TOTGS promo",
       description:
@@ -91,7 +91,7 @@ const data = {
         id: null,
         name: "Yahoo Entertainment",
       },
-      category: "Tech",
+      category: "tech",
       author: "Sarah Fielding",
       title: "The Apple Watch Ultra 2 falls back to a low of $699",
       description:
@@ -108,7 +108,7 @@ const data = {
         id: null,
         name: "Yahoo Entertainment",
       },
-      category: "Tech",
+      category: "tech",
       author: "Steve Dent",
       title: "Threads finally launches in Europe",
       description:
@@ -125,7 +125,7 @@ const data = {
         id: "the-verge",
         name: "The Verge",
       },
-      category: "Tech",
+      category: "tech",
       author: "Emma Roth",
       title:
         "Intel’s Core Ultra CPUs are here — and they all come with silicon dedicated to AI",
