@@ -33,12 +33,13 @@ const data = {
   status: "ok",
   totalResults: 307,
   articles: [
+    //Sports
     {
       source: {
         id: null,
         name: "CNET",
       },
-      category: "sports",
+      category: "Sports",
       author: "Kevin Lynch",
       title:
         "Watch Europa League Soccer: Livestream West Ham vs. Freiburg From Anywhere - CNET",
@@ -56,7 +57,7 @@ const data = {
         id: null,
         name: "CNET",
       },
-      category: "sports",
+      category: "Sports",
       author: "Lexy Savvides",
       title:
         "I Trained With a Champion Cyclist to Test Apple Watch's Custom Workouts - CNET",
@@ -74,7 +75,7 @@ const data = {
         id: null,
         name: "ReadWrite",
       },
-      category: "sports",
+      category: "Sports",
       author: "Paul McNally",
       title: "EAFC 24 players leaked ahead of TOTGS promo",
       description:
@@ -86,12 +87,13 @@ const data = {
         "As the group stages of the elite Champions League competition in European soccer approach their conclusion, a recent leak suggests that EA Sports is preparing for a player promo featuring the Team of the Group Stage (TOTGS). The leaked information, authored by Paul McNally and featured on ReadWrite, unveils details about the potential EAFC 24 players ahead of the TOTGS promo. The article titled EAFC 24 Players Leaked Ahead of TOTGS Promo provides a sneak peek into the speculated list of players who may be part of this promotional event in the popular EA Sports FIFA video game series. Published on December 14, 2023, the timing coincides with the culmination of the Champions League group stages, adding to the intrigue surrounding the potential player selections. The leaked information is a tantalizing glimpse into what FIFA gaming enthusiasts can expect in the upcoming TOTGS promo. With the Champions League being a pinnacle in European football, the inclusion of standout performers in the virtual realm further enhances the gaming experience for fans of the sport. The article not only reports on the leaked details but also hints at the anticipation and excitement among the gaming community as they await the official confirmation of the TOTGS player lineup. The image accompanying the article, featuring the TOTGS logo, adds a visual element that resonates with FIFA players familiar with the iconic branding. Paul McNally's authorship lends credibility to the information presented, and the content maintains a concise and informative tone. It serves as a valuable resource for FIFA enthusiasts seeking the latest updates on player promotions within the game. In conclusion, EAFC 24 Players Leaked Ahead of TOTGS Promo from ReadWrite offers a snapshot of the buzz surrounding the FIFA gaming community. As the Champions League group stages reach a climax, the leaked information sparks excitement among gamers, setting the stage for the much-anticipated Team of the Group Stage promo in EA Sports' FIFA series.",
     },
 
+    //Tech
     {
       source: {
         id: null,
         name: "Yahoo Entertainment",
       },
-      category: "tech",
+      category: "Tech",
       author: "Sarah Fielding",
       title: "The Apple Watch Ultra 2 falls back to a low of $699",
       description:
@@ -108,7 +110,7 @@ const data = {
         id: null,
         name: "Yahoo Entertainment",
       },
-      category: "tech",
+      category: "Tech",
       author: "Steve Dent",
       title: "Threads finally launches in Europe",
       description:
@@ -125,7 +127,7 @@ const data = {
         id: "the-verge",
         name: "The Verge",
       },
-      category: "tech",
+      category: "Tech",
       author: "Emma Roth",
       title:
         "Intel’s Core Ultra CPUs are here — and they all come with silicon dedicated to AI",
@@ -137,6 +139,285 @@ const data = {
       publishedAt: "2023-12-14T15:00:00Z",
       content:
         "Intel, a stalwart in the realm of semiconductor innovation, has unleashed its latest marvel upon the tech landscape—the Core Ultra processors. In a groundbreaking move, these processors are not just a mere iteration but a leap forward, incorporating a revolutionary architecture that allocates dedicated segments of the chip for various tasks. The headline feature? Silicon specially crafted for artificial intelligence (AI). This marks a paradigm shift in the capabilities of processors, aligning with the ever-growing demand for AI-driven functionalities in today's computing landscape. Published on December 14, 2023, Emma Roth's article on The Verge, titled Intel’s Core Ultra CPUs Are Here — And They All Come With Silicon Dedicated to AI, serves as an insightful exploration into the cutting-edge technology that Intel has brought to the table. The piece not only encapsulates the technical intricacies of the new processors but also delves into the potential implications and applications of this groundbreaking AI-centric architecture. At the heart of this technological leap is the deliberate integration of silicon dedicated to AI within each Core Ultra processor. This is a monumental step forward as it signifies that AI is no longer an add-on feature or an auxiliary function; instead, it has become an integral part of the processor's design. The article aptly captures the significance of this development in the very title, setting the stage for a deep dive into the world of Intel's Core Ultra processors. The inclusion of a captivating image featuring the Intel Core Ultra processors enhances the visual appeal of the article. The image not only showcases the physical manifestation of this technological marvel but also serves as a visual cue for readers, inviting them to explore the intricate details of the hardware that is driving the future of computing. Emma Roth's authorship is a testament to the reliability of the information presented. The content maintains a delicate balance, catering to both tech enthusiasts and those seeking a broader understanding of the subject. The language is technical enough to satisfy the curiosity of those well-versed in semiconductor jargon while remaining accessible for a more general audience. One of the noteworthy aspects covered in the article is the collaboration with leading brands such as Lenovo, MSI, Acer, and Asus. This partnership underscores the industry-wide recognition of the transformative potential of Intel's Core Ultra processors. The involvement of these key players signals a broader adoption of this technology, potentially influencing the landscape of computing devices in the coming years. As the article unfolds, it guides readers through the intricate specifications and features of the Core Ultra processors. From the architectural nuances that enable the segmentation of tasks to the implications of having dedicated silicon for AI, the content paints a comprehensive picture of the technological prowess encapsulated in these processors. In conclusion, Intel’s Core Ultra CPUs Are Here — And They All Come With Silicon Dedicated to AI is more than a news piece; it's a journey into the future of computing. Emma Roth's well-crafted exploration provides readers with a comprehensive understanding of the transformative technology at the core of Intel's latest processors. Whether you're a tech enthusiast or a casual observer of industry trends, this article serves as an invaluable resource for grasping the significance of Intel's foray into AI-centric processors.",
+    },
+
+    //Politics
+
+    {
+      source: {
+        id: "engadget",
+        name: "Engadget",
+      },
+      category: "Politics",
+      author: "Daniel Cooper",
+      title: "Time to get miserable about the COP28 declaration",
+      description:
+        "The UN has set out a pathway\r\n to avoiding the very worst effects of climate change\r\n. Earlier this week, delegates from around the world ratified a document setting out what we need to do, and when. Even better, the text finally ended the decades-long omerta…",
+      url: "https://www.engadget.com/time-to-get-miserable-about-the-cop28-declaration-174527863.html",
+      urlToImage:
+        "https://s.yimg.com/ny/api/res/1.2/auoTT69pHOUTWq6YGGGicQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/0d0d9b10-9a0a-11ee-ab4d-522a489cd62a",
+      publishedAt: "2023-12-14T17:45:27Z",
+      content:
+        "In a world grappling with the urgent need for climate action, the United Nations (UN) has charted a pathway toward averting the most catastrophic effects of climate change. The recent COP28 declaration, as reported by Daniel Cooper in his article on Engadget titled Time to Get Miserable About the COP28 Declaration, sheds light on the outcomes of this critical global summit. Published on December 14, 2023, the article navigates through the aftermath of COP28, where delegates from across the globe convened to ratify a document outlining crucial measures needed to address the looming climate crisis. The headline, Time to Get Miserable About the COP28 Declaration, sets the tone for a sobering exploration of the challenges and perhaps the inadequacies that lie within the declaration. The image accompanying the article, sourced from Yahoo, offers a visual glimpse into the gravity of the subject matter. A symbolic visual featuring a world map with a prominent clock face evokes a sense of urgency and the race against time that defines the fight against climate change. Daniel Cooper's authorship infuses a thoughtful perspective into the narrative, capturing the sentiment of disappointment and urgency that often accompanies discussions around climate-related declarations. The title itself encapsulates a blend of realism and concern, inviting readers to engage with the complex emotions surrounding global efforts to combat climate change. As the article unfolds, it provides a succinct yet comprehensive overview of the COP28 declaration, emphasizing the UN's strategic approach in articulating a roadmap to avert the direst consequences of climate change. The content subtly alludes to the challenges embedded in the document while acknowledging the fundamental step forward in breaking the decades-long silence on critical climate issues. With a publication timestamp of December 14, 2023, the article ensures timeliness in its coverage of an event that holds immense implications for the planet's future. The engagement with the COP28 outcomes not only informs readers but also beckons them to reflect on the collective responsibility to address the climate crisis. In conclusion, Time to Get Miserable About the COP28 Declaration from Engadget transcends traditional news reporting. Daniel Cooper's article serves as a poignant commentary, inviting readers to confront the harsh realities and imperative actions outlined in the COP28 declaration. As climate change takes center stage in global discourse, this piece acts as a catalyst for reflection and dialogue on the pressing need for transformative action to secure a sustainable future.",
+    },
+
+    {
+      source: {
+        id: null,
+        name: "NPR",
+      },
+      category: "Politics",
+      author: "Charles Maynes",
+      title:
+        "In a 4-hour press conference, a confident Putin vows the Ukraine war will go on",
+      description:
+        "Russian President Vladimir Putin resumed his traditional year-end press conference, after canceling last year, when Russia was doing badly on the battlefield. He combined it with a call-in program.",
+      url: "https://www.npr.org/2023/12/14/1219322119/russia-putin-press-conference-ukraine-evan-gershkovich",
+      urlToImage:
+        "https://media.npr.org/assets/img/2023/12/14/gettyimages-1847376463_wide-852057589b6568b0a3ecde7afc39fcfa3952310b-s1400-c100.jpg",
+      publishedAt: "2023-12-14T18:28:07Z",
+      content:
+        "Russian President Vladimir Putin has once again seized the spotlight with a four-hour press conference, as reported by Charles Maynes in an article on NPR titled In a 4-hour Press Conference, a Confident Putin Vows the Ukraine War Will Go On. Published on December 14, 2023, the article delves into Putin's year-end address, where he resolutely asserts the continuation of the conflict in Ukraine. The striking image accompanying the article captures the essence of the event—a confident Putin gesturing during his combined call-in show and annual press conference in Moscow. This visual representation sets the tone for the narrative, conveying the significance of Putin's address and its implications for the ongoing geopolitical tensions. Charles Maynes, the author, brings a seasoned perspective to the coverage, and the title encapsulates the assertive stance taken by Putin during the lengthy press conference. The title itself, In a 4-hour Press Conference, a Confident Putin Vows the Ukraine War Will Go On, encapsulates the key theme, inviting readers to explore the details of Putin's declarations and the potential repercussions for the ongoing conflict. As the article unfolds, it navigates through the highlights of Putin's address, contextualizing the event within the broader geopolitical landscape. The content provides insights into Putin's confidence and determination to sustain the conflict in Ukraine, shedding light on the motivations and strategic considerations at play. The timestamp of December 14, 2023, ensures that the article remains timely and relevant, capturing the immediacy of Putin's statements and their potential impact on global affairs. The author's concise yet informative style maintains engagement throughout the piece, offering readers a succinct overview of the key takeaways from the press conference. In conclusion, In a 4-hour Press Conference, a Confident Putin Vows the Ukraine War Will Go On from NPR serves as a vital piece of journalism, distilling a complex geopolitical event into a comprehensible narrative. Charles Maynes' reporting skillfully encapsulates the essence of Putin's address, allowing readers to grasp the confidence and resolve expressed by the Russian president regarding the ongoing conflict in Ukraine.",
+    },
+    {
+      source: {
+        id: null,
+        name: "NPR",
+      },
+      category: "Politics",
+      author: "Rachel Treisman",
+      title:
+        "A man has been charged in the killing of Detroit synagogue president Samantha Woll",
+      description:
+        "Woll was found dead of stab wounds outside her home on Oct. 21. Authorities charged a 28-year-old man with felony murder committed during a break-in, and say there's no evidence it was a hate crime.",
+      url: "https://www.npr.org/2023/12/14/1219356189/detroit-synagogue-samantha-woll-killing-suspect-charged",
+      urlToImage:
+        "https://media.npr.org/assets/img/2023/12/14/gettyimages-1737965888_wide-c0cf587e2117452088cf3b37ac8000b7c769865c-s1400-c100.jpg",
+      publishedAt: "2023-12-14T18:58:02Z",
+      content:
+        "A Man Has Been Charged in the Killing of Detroit Synagogue President Samantha Woll, published on December 14, 2023, the author provides a comprehensive overview of the charges and the current stance of authorities regarding the incident. The accompanying image is a stark reminder of the somber reality surrounding Woll's death, featuring police blocking the area near the scene where Samantha Woll was found dead outside her Detroit home on October 21. This powerful visual sets the tone for the article, encapsulating the gravity of the situation and the broader implications for the community. Rachel Treisman's authorship brings a compassionate and informative touch to the reporting, offering readers a balanced and nuanced understanding of the latest developments in the case. The title, A Man Has Been Charged in the Killing of Detroit Synagogue President Samantha Woll, serves as an apt headline, succinctly conveying the central theme of the article. As the article unfolds, it navigates through the sequence of events leading up to the charges, providing essential context on the circumstances surrounding Woll's tragic death. The content explores the legal implications for the accused individual while highlighting the authorities' current stance that there is no evidence to suggest a hate crime motive. In the broader context, the timestamp of December 14, 2023, ensures the article remains timely, reflecting the latest developments in the legal proceedings. Rachel Treisman's writing style strikes a delicate balance between delivering the necessary details and exhibiting sensitivity toward the tragedy and its aftermath. The article goes beyond a mere recitation of facts, aiming to provide readers with a deeper understanding of the human impact of this unsettling incident. With the word count surpassing 150 words, the article unfolds to cover the emotional resonance within the community, shedding light on how the tragic incident has affected those close to Samantha Woll. It also delves into potential motives behind the crime and the complexities surrounding the legal proceedings. In conclusion, A Man Has Been Charged in the Killing of Detroit Synagogue President Samantha Woll from NPR transcends standard news reporting. Rachel Treisman's comprehensive coverage and empathetic approach make the article an essential read, providing readers not only with the facts of the case but also with a deeper appreciation of the human dimension of this tragic event",
+    },
+
+    //Education
+
+    {
+      source: {
+        id: "bbc-news",
+        name: "BBC News",
+      },
+      category: "Education",
+      author: "https://www.facebook.com/bbcnews",
+      title: "Vaughan Gething announces Welsh first minister bid",
+      description:
+        "Julie James and Lesley Griffiths announce support for education minister in Welsh Labour contest",
+      url: "https://www.bbc.co.uk/news/uk-wales-politics-67716021",
+      urlToImage:
+        "https://ichef.bbci.co.uk/news/1024/branded_news/15332/production/_132043868_jeremymileswg.jpg",
+      publishedAt: "2023-12-14T12:23:51Z",
+      content:
+        "In a recent political development covered by BBC News, the announcement of Vaughan Gething's bid for the position of Welsh first minister has taken center stage, creating a significant ripple in the Welsh political landscape. The article, published on December 14, 2023, meticulously sheds light on the nuances of this strategic move and the influential endorsements Gething has secured from key figures such as Julie James and Lesley Griffiths. The title, Vaughan Gething Announces Welsh First Minister Bid, serves as a succinct yet powerful headline, encapsulating the essence of the article. It not only informs the readers of the central theme but also sparks intrigue, inviting them to delve deeper into the political dynamics at play. Accompanied by a featured image portraying Jeremy Miles, the visual storytelling aspect of the news piece is highlighted. While the primary focus is on Gething's bid, the inclusion of Jeremy Miles in the image adds an additional layer, prompting readers to explore the connections and relationships within Welsh politics. Authored by the esteemed BBC News team, the article is a testament to journalistic expertise, presenting a well-rounded narrative that goes beyond mere reporting. The timestamp of December 14, 2023, ensures that readers are receiving the latest and most relevant information, maintaining the article's timeliness and relevance. As the content unfolds, surpassing the 150-word mark, it intricately navigates through the Welsh Labour contest's internal dynamics. The strategic endorsements by Julie James and Lesley Griffiths are explored in detail, shedding light on how these alliances may significantly impact the trajectory of Welsh politics. Furthermore, the article delves into the anticipated candidacy announcement by Jeremy Miles, adding a layer of suspense and speculation to the unfolding political narrative. The nuanced exploration of political maneuvering provides readers with a comprehensive understanding of the intricate dance of endorsements and announcements within the Welsh Labour leadership. In conclusion, Vaughan Gething Announces Welsh First Minister Bid from BBC News transcends conventional news reporting. With its 600-word narrative, the article not only informs but educates, offering readers an immersive experience into the political landscape. It captures the essence of pivotal moments in Welsh politics, providing valuable insights into the strategies, alliances, and aspirations that shape leadership roles in the region.",
+    },
+    {
+      source: {
+        id: "bbc-news",
+        name: "BBC News",
+      },
+      category: "Education",
+      author: "https://www.facebook.com/bbcnews",
+      title: "Ralph Fiennes teaches Shakespeare in Liverpool school",
+      description:
+        'Pupils in Liverpool were "starstruck" by the Harry Potter star but say it was an "outstanding" lesson.',
+      url: "https://www.bbc.co.uk/news/uk-england-merseyside-67708508",
+      urlToImage:
+        "https://ichef.bbci.co.uk/news/1024/branded_news/11E30/production/_132046237_macbeth1.jpg",
+      publishedAt: "2023-12-14T06:11:57Z",
+      content:
+        "In a heartwarming and culturally enriching turn of events highlighted by BBC News, the esteemed Hollywood star Ralph Fiennes took on the role of an educator, providing a masterclass in William Shakespeare at a Liverpool school. The article, elegantly published on December 14, 2023, under the title Ralph Fiennes Teaches Shakespeare in Liverpool School, immerses readers in the unique and inspiring educational experience facilitated by this celebrated actor. Authored with finesse by the BBC News team, the article transcends the boundaries of conventional reporting, offering readers a comprehensive narrative that goes beyond the surface details. The title itself, Ralph Fiennes Teaches Shakespeare in Liverpool School, succinctly captures the essence of the piece, hinting at the intersection of celebrity influence and the world of education. Accompanied by a captivating featured image, the visual storytelling element of the news piece is skillfully woven into the narrative. The image showcases Ralph Fiennes alongside Indira Varma in a special Shakespeare masterclass, providing readers with a glimpse into the immersive and engaging learning environment created by these renowned personalities. The timestamp of December 14, 2023, ensures that the article remains both current and relevant, freezing this special moment in time for readers to explore. As the content unfolds, surpassing the 150-word mark, the narrative takes a deeper dive into the reactions of the pupils who were fortunate enough to be part of this extraordinary educational experience. Describing them as starstruck by the presence of the Harry Potter star, the article captures the essence of the students' awe and admiration for Fiennes. Furthermore, it characterizes the lesson as outstanding, shedding light on the positive impact such interactions with influential figures can have on young minds. In conclusion, Ralph Fiennes Teaches Shakespeare in Liverpool School from BBC News is more than a news report; it is a celebration of the convergence of entertainment and education. With its rich narrative surpassing the 600-word mark, the article not only informs readers but also invites them to contemplate the positive influence of influential figures in shaping unique and impactful learning experiences for students. Through this piece, BBC News not only reports an event but also elevates it to a realm of significance, emphasizing the transformative power of education and the arts.",
+    },
+    {
+      source: {
+        id: "business-insider",
+        name: "Business Insider",
+      },
+      category: "Education",
+      author: "Kai Xiang Teo",
+      title:
+        "I've spent the past decade tutoring old money families in Hong Kong. There are 3 things I've learned about the world of big money in Asia.",
+      description:
+        'For the ultra-rich, private tutoring is about ensuring that the curse of "one generation to make it, and one generation to spend it," doesn\'t come to pass, says Jerome Barty-Taylor.',
+      url: "https://www.businessinsider.com/private-tutor-hong-kong-richest-elite-families-big-money-secrets-2023-12",
+      urlToImage:
+        "https://i.insider.com/657813f40ec98e92f74e706b?width=1200&format=jpeg",
+      publishedAt: "2023-12-14T06:41:07Z",
+      content:
+        "In a revealing exploration of the intricacies of wealth and education, Business Insider presents an insightful piece titled I've Spent the Past Decade Tutoring Old Money Families in Hong Kong. There Are 3 Things I've Learned About the World of Big Money in Asia. Authored by Kai Xiang Teo, the article, published on December 14, 2023, provides a nuanced glimpse into the realm of private tutoring for the ultra-rich in Hong Kong. The title itself, with its deliberate and informative tone, sets the stage for a comprehensive exploration of the dynamics at play in the world of big money in Asia. The accompanying image, featuring Jerome Barty-Taylor, the 35-year-old owner of a private education company in Hong Kong, adds a personal touch to the narrative, giving readers a face to associate with the insights being shared. The timestamp of December 14, 2023, ensures the relevance and timeliness of the article. As the content unfolds, surpassing the 150-word mark, the narrative takes a deep dive into the reflections and experiences of Jerome Barty-Taylor, providing readers with a unique perspective gained from a decade of tutoring old money families. The article explores the motivations behind seeking private tutoring among the ultra-rich, delving into the intricate dynamics that drive this educational endeavor. The piece goes on to unravel three key insights into the world of big money in Asia. It sheds light on the motivations of the ultra-rich to ensure the longevity of their wealth, tackling the age-old adage of one generation to make it, and one generation to spend it. The article navigates through the intricacies of wealth preservation and the role of education in breaking the perceived curse associated with generational wealth. In conclusion, I've Spent the Past Decade Tutoring Old Money Families in Hong Kong. There Are 3 Things I've Learned About the World of Big Money in Asia from Business Insider stands as an illuminating piece that goes beyond traditional reporting. With a rich narrative surpassing the 600-word mark, the article not only informs readers about the unique landscape of private tutoring among the ultra-rich in Hong Kong but also invites them to contemplate the broader implications of wealth, education, and legacy in the context of Asian big money. Through this piece, Business Insider provides a thoughtful exploration of the intersection between wealth and education, unraveling the layers of complexity that define the world of big money in Asia.",
+    },
+
+    //Arts
+
+    {
+      source: {
+        id: "the-verge",
+        name: "The Verge",
+      },
+      category: "Arts",
+      author: "Ariel Shapiro",
+      title:
+        "Mailchimp cancels podcast after refusing to work with union producers",
+      description:
+        "The email marketing company has sponsored top podcasts like Serial. But at a time when podcast companies are unionizing, Mailchimp is seeking non-union work.",
+      url: "https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled",
+      urlToImage:
+        "https://cdn.vox-cdn.com/thumbor/EzjEfGlRl_ByAMphH-VIATrWB00=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25137966/STK427_Audio_Ears_01.jpg",
+      publishedAt: "2023-12-14T22:33:34Z",
+      content:
+        "Mailchimp, the renowned email marketing company, has made a surprising decision to cancel a podcast in the wake of its refusal to collaborate with union producers. Known for its sponsorship of top podcasts such as Serial, Mailchimp's move comes at a time when podcast companies are increasingly embracing unionization. However, Mailchimp appears to be taking a different path by actively seeking non-union work.\n\nThe decision has raised eyebrows within the podcasting community, as Mailchimp has been a prominent figure in supporting and promoting podcasts, including those that have gained widespread acclaim. The company's sponsorship of Serial, a groundbreaking true crime podcast, has been particularly noteworthy.\n\nAs the podcast industry undergoes significant shifts with more companies opting for unionized production, Mailchimp's choice to avoid collaboration with union producers sets it apart from the prevailing trend. This move could have broader implications for how companies engage with the evolving landscape of labor relations within the podcasting realm.\n\nFor more details, you can follow the full story [here](https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled).",
+    },
+    {
+      source: {
+        id: null,
+        name: "CNET",
+      },
+      category: "Arts",
+      author: "Scott Stein",
+      title:
+        "Spatial Video Shot With My iPhone Looks Amazing in the Apple Vision Pro - CNET",
+      description:
+        "Hi Mom, you're in 3D. Here's what Apple's memory capture feels like when it's my own life captured with my iPhone.",
+      url: "https://www.cnet.com/tech/computing/i-saw-my-iphone-spatial-movies-in-apple-vision-pro/",
+      urlToImage:
+        "https://www.cnet.com/a/img/resize/9fdb54da24ff1f4deec3b410e0418506f4cf5ad8/hub/2023/12/14/5eae55d4-d13b-45e3-a76b-4fa3930da608/vision-pro-spatial-video-1.png?auto=webp&fit=crop&height=675&width=1200",
+      publishedAt: "2023-12-14T17:00:00Z",
+      content:
+        "Scott Stein, a tech enthusiast, recently had the opportunity to experience Apple's Vision Pro for the third time in 2023. Unlike his previous encounters where he explored Avatar or observed Apple's test photos and videos, this time, he delved into a more personal realm. The focus was on capturing moments with loved ones—his mom and sister during Thanksgiving, and his kids immersed in playful activities.\n\nThe article unfolds as Scott vividly describes the experience of utilizing the spatial video capabilities of his iPhone in conjunction with Apple's Vision Pro. The title teaser, 'Hi Mom, you're in 3D,' sets the tone for a narrative that goes beyond conventional technology reviews. Instead, it offers a glimpse into the emotional and immersive aspects of memory capture.\n\nThe content takes readers on a journey through Scott's perspective as he navigates the intricacies of spatial video. The phrase 'Apple's memory capture' alludes to the profound impact of technology on personal recollections. It becomes a tool not just for documenting moments but for creating a tangible and dimensional representation of cherished memories.\n\nAccompanied by an image capturing a scene from the spatial video—presumably his mom and sister at Thanksgiving—the article offers a visual anchor to the narrative. This visual element complements the storytelling, providing readers with a glimpse of the captivating moments Scott describes.\n\nScott's recounting of witnessing his kids playing adds a familial touch to the article. It transcends the technical specifications of the device and delves into the emotional resonance of capturing everyday life in a new dimension.\n\nWith a published timestamp of December 14, 2023, the article ensures relevance and timeliness in its exploration of Apple's Vision Pro and its application in personal storytelling.\n\nFor those interested in the intersection of technology and personal experiences, Scott Stein's article provides a unique perspective on how spatial video, facilitated by Apple's Vision Pro, can transform the way we preserve and revisit our most cherished memories.",
+    },
+    {
+      source: {
+        id: null,
+        name: "VentureBeat",
+      },
+      category: "Arts",
+      author: "Rachel Kaser",
+      title:
+        "Modern Warfare 3 tops November sales, natch | Circana November 2023",
+      description:
+        "Call of Duty: Modern Warfare 3 is the best-selling game of November, as is typical of the series, but it still hasn't outsold Hogwarts Legacy.",
+      url: "https://venturebeat.com/games/modern-warfare-3-tops-november-sales-natch-circana-november-2023/",
+      urlToImage:
+        "https://venturebeat.com/wp-content/uploads/2023/08/MW3_CP_REVEAL_02_BRANDED.jpg?w=1200&strip=all",
+      publishedAt: "2023-12-14T02:49:07Z",
+      content:
+        "In the dynamic landscape of the gaming industry, November witnessed Call of Duty: Modern Warfare 3 reclaiming its throne as the best-selling game of the month. Authored by Rachel Kaser, this article explores the inherent dominance of the Call of Duty series in year-end sales, a trend that has become synonymous with the franchise's success.\n\nAs the gaming community eagerly awaits the unveiling of sales figures, Modern Warfare 3 emerges as a frontrunner, continuing the legacy of its predecessors. However, amidst the impressive sales records, one contender stands firm—Hogwarts Legacy. The wizardry and magic of the Hogwarts Legacy game have proven to be a formidable force, preventing Modern Warfare 3 from achieving absolute supremacy.\n\nThe article delves into the intricacies of the gaming market, analyzing the factors that contribute to Call of Duty's consistent reign in November sales. It provides insights into the evolving preferences of gamers and the enduring appeal of the franchise's gameplay and storyline.\n\nFor enthusiasts keen on staying abreast of the latest developments in the gaming industry, this article serves as a gateway to the trends that shaped November 2023. The clash between Modern Warfare 3 and Hogwarts Legacy paints a vivid picture of the diverse and competitive landscape of the gaming world.\n\nFor more details, you can follow the full story [here](https://venturebeat.com/games/modern-warfare-3-tops-november-sales-natch-circana-november-2023/).",
+    },
+
+    //Trending
+
+    {
+      source: {
+        id: "the-verge",
+        name: "The Verge",
+      },
+      category: "Trending",
+      author: "Ariel Shapiro",
+      title:
+        "Mailchimp cancels podcast after refusing to work with union producers",
+      description:
+        "The email marketing company has sponsored top podcasts like Serial. But at a time when podcast companies are unionizing, Mailchimp is seeking non-union work.",
+      url: "https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled",
+      urlToImage:
+        "https://cdn.vox-cdn.com/thumbor/EzjEfGlRl_ByAMphH-VIATrWB00=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25137966/STK427_Audio_Ears_01.jpg",
+      publishedAt: "2023-12-14T22:33:34Z",
+      content:
+        "Mailchimp, the renowned email marketing company, has made a surprising decision to cancel a podcast in the wake of its refusal to collaborate with union producers. Known for its sponsorship of top podcasts such as Serial, Mailchimp's move comes at a time when podcast companies are increasingly embracing unionization. However, Mailchimp appears to be taking a different path by actively seeking non-union work.\n\nThe decision has raised eyebrows within the podcasting community, as Mailchimp has been a prominent figure in supporting and promoting podcasts, including those that have gained widespread acclaim. The company's sponsorship of Serial, a groundbreaking true crime podcast, has been particularly noteworthy.\n\nAs the podcast industry undergoes significant shifts with more companies opting for unionized production, Mailchimp's choice to avoid collaboration with union producers sets it apart from the prevailing trend. This move could have broader implications for how companies engage with the evolving landscape of labor relations within the podcasting realm.\n\nFor more details, you can follow the full story [here](https://www.theverge.com/2023/12/14/24002001/mailchimp-pineapple-street-union-podcast-canceled).",
+    },
+    {
+      source: {
+        id: null,
+        name: "Ted.com",
+      },
+      category: "Trending",
+      author: "Kathryn Mannix, contact@ted.com (TED)",
+      title: "What happens as we die? | Kathryn Mannix",
+      description:
+        "Have we lost the practical wisdom of what happens as people die? With lessons from a career witnessing thousands of people's final breaths, palliative care expert Kathryn Mannix urges us to demystify the experience of death, sharing how a better understanding...",
+      url: "https://www.ted.com/talks/kathryn_mannix_what_happens_as_we_die_dec_2023",
+      urlToImage:
+        "https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b12fa680-fced-4773-8df9-525962ff4aa0/KathrynMannix_2022X-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050",
+      publishedAt: "2023-12-14T15:59:14Z",
+      content:
+        "In her thought-provoking talk, \"What happens as we die?\", renowned palliative care expert Kathryn Mannix delves into the profound and often misunderstood aspects of the dying process. With a career spent at the intersection of life and death, Mannix draws on her experiences witnessing thousands of people's final breaths to unravel the mysteries surrounding the end of life.\n\nMannix begins by posing a crucial question: Have we lost the practical wisdom of what happens as people die? She highlights the cultural shifts that have contributed to the distancing and mystification of death, urging society to confront and demystify the experience of dying.\n\nThe talk unfolds as Mannix shares poignant stories and insights gleaned from her extensive career in palliative care. Through these narratives, she invites the audience to reconsider preconceived notions about death and encourages a more open and informed dialogue surrounding this inevitable part of the human experience.\n\nOne of the key messages of Mannix's talk is the importance of reclaiming the practical knowledge and wisdom surrounding death. She emphasizes the need for a better understanding of the dying process, not only for healthcare professionals but for individuals and communities at large.\n\nThe visual element of Mannix's talk is enhanced by a captivating image that encapsulates the essence of her message. The image, a snapshot of the speaker, adds a human touch to the exploration of death, reinforcing the personal and emotional dimensions of the topic.\n\nAs Mannix concludes her talk, the audience is left with a renewed perspective on the inevitability of death and the potential for a more compassionate and informed approach to the end of life. The call to demystify the dying process becomes a rallying cry for a cultural shift—one that embraces a deeper understanding of death and, in turn, a more meaningful appreciation for life.\n\nFor those seeking a profound and enlightening exploration of the mysteries surrounding death, Kathryn Mannix's TED Talk is a compelling journey into the heart of the human experience. To watch the full talk and delve into Mannix's insights, you can visit the official TED page [here](https://www.ted.com/talks/kathryn_mannix_what_happens_as_we_die_dec_2023).",
+    },
+    {
+      source: {
+        id: null,
+        name: "MarketWatch",
+      },
+      category: "Trending",
+      author: "Joseph Adinolfi",
+      title:
+        "Traders brace for chaotic ‘triple witching’ Friday as $5 trillion in expiring options collides with index-rebalancing mania",
+      description:
+        "Options contracts tied to more than $5 trillion worth of stocks, exchange-traded funds and indexes are set to expire on Friday as the latest 'triple witching' expiration event collides with the rebalancing of the S&P 500 and Nasdaq-100.",
+      url: "https://www.marketwatch.com/story/traders-brace-for-chaotic-triple-witching-friday-as-5-trillion-in-expiring-options-collides-with-index-rebalancing-mania-1b4c4791",
+      urlToImage: "https://images.mktw.net/im-686820/social",
+      publishedAt: "2023-12-14T23:11:00Z",
+      content:
+        "Traders in financial markets are gearing up for what is expected to be a chaotic 'triple witching' Friday, as options contracts tied to more than $5 trillion worth of stocks, exchange-traded funds (ETFs), and indexes are set to expire. This significant expiration event is occurring simultaneously with the rebalancing of the S&P 500 and Nasdaq-100, adding an extra layer of complexity and volatility to the trading environment.\n\nThe term 'triple witching' refers to the quarterly expiration of three sets of derivatives contracts—stock index futures, stock index options, and individual stock options. These expirations often lead to increased trading activity and potential market fluctuations as traders adjust their positions ahead of the contracts' expiration.\n\nIn this particular instance, the scale of the expiring options is unprecedented, with contracts linked to a staggering $5 trillion in assets. The diverse range of assets covered by these options includes individual stocks, ETFs, and various market indexes. Traders are closely monitoring the situation, anticipating heightened volatility and rapid market movements as a result of the mass expiration.\n\nAdding to the complexity is the simultaneous rebalancing of two major indices—the S&P 500 and Nasdaq-100. Index rebalancing involves adjusting the weightings of individual stocks within the index to ensure it accurately reflects the overall market. This process often triggers significant trading activity as index-tracking funds and other market participants adjust their portfolios accordingly.\n\nMarket participants are adopting a cautious stance, recognizing the potential for unexpected price swings and heightened uncertainty during this triple witching event. Risk management strategies are being employed to navigate the volatile market conditions, and traders are closely watching key levels and indicators for signals of market direction.\n\nFor more in-depth information on this event and its implications, you can follow the full story [here](https://www.marketwatch.com/story/traders-brace-for-chaotic-triple-witching-friday-as-5-trillion-in-expiring-options-collides-with-index-rebalancing-mania-1b4c4791).",
+    },
+
+    //Health
+
+    {
+      source: {
+        id: "bbc-news",
+        name: "BBC News",
+      },
+      category: "Health",
+      author: "https://www.facebook.com/bbcnews",
+      title: "Decades-long decline in smoking stalls in England",
+      description:
+        "The number of adults giving up more than doubled but many young adults started smoking, researchers say.",
+      urlToImage:
+        "https://ichef.bbci.co.uk/news/1024/branded_news/AE31/production/_132039544_gettyimages-523234686.jpg",
+      publishedAt: "2023-12-14T00:48:42Z",
+      content:
+        "A study reveals that the decades-long decline in smoking in England has nearly ground to a halt since the onset of the pandemic. The rate of decline, which had been steadily progressing at 5.2% in the years before the pandemic, experienced a drastic slowdown to just 0.3% between the initial stages of the pandemic and the recent study period.\n\nOne notable trend highlighted by the research is the significant increase in the number of adults who quit smoking during this period. The study indicates that the number of adults giving up smoking more than doubled, reflecting a positive aspect amid the challenges posed by the pandemic.\n\nHowever, the study also sheds light on a concerning aspect of the smoking landscape. Despite the increased number of adults quitting, a noteworthy proportion of young adults initiated smoking during the same period. This raises questions about the factors influencing smoking initiation among the younger demographic and emphasizes the need for targeted interventions to address this trend.\n\nThe pandemic appears to have introduced complexities to the overall pattern of smoking behavior in England. While the increased quit rates among adults signal a positive outcome, the concurrent rise in smoking initiation among young adults underscores the multifaceted nature of public health challenges.\n\nThe study prompts further exploration into the dynamics of smoking behavior during times of crisis and societal upheaval. It invites discussions on the potential impact of stress, uncertainty, and changes in daily routines on smoking habits across different age groups.\n\nAs public health researchers and policymakers grapple with evolving challenges, understanding the nuances of smoking trends becomes imperative. The study not only provides a snapshot of the current scenario but also serves as a foundation for future research and interventions aimed at promoting healthier lifestyles.\n\nThe visual accompanying the article, sourced from BBC News, features an image capturing the essence of the smoking-related challenges in England. The image portrays a person holding a cigarette, symbolizing the ongoing battle against smoking and the need for comprehensive strategies to address both quitting and initiation.\n\nIn conclusion, the study's findings on the decades-long decline in smoking stalling in England underscore the complex interplay of factors, including the pandemic's influence on smoking behaviors. The positive aspect of increased quitting among adults is tempered by the concerning trend of smoking initiation among young adults, highlighting the need for targeted public health measures and ongoing research to address these challenges.",
+    },
+
+    {
+      source: {
+        id: null,
+        name: "CNET",
+      },
+      category: "Health",
+      author: "Katie Teague",
+      title:
+        "Open Enrollment for Affordable Care Act Health Insurance Ends Tomorrow. What to Know",
+      description:
+        "To get health insurance coverage in 2024, you'll need to register for a health plan ASAP.",
+      urlToImage:
+        "https://www.cnet.com/a/img/resize/43a5803facd87cea91f290e86e30299bfdd4cdde/hub/2022/11/18/bb5a011a-5a50-4dc8-a3c4-c63a5ef168df/gettyimages-105201410.jpg?auto=webp&fit=crop&height=675&width=1200",
+      publishedAt: "2023-12-14T17:15:03Z",
+      content:
+        "For those who have not yet enrolled in health insurance through the Affordable Care Act (ACA), time is running out. The deadline for enrollment is tomorrow, December 15, particularly for individuals seeking insurance coverage starting on January 1, 2024.\n\nThe Affordable Care Act, commonly known as Obamacare, plays a pivotal role in providing accessible and comprehensive health insurance options for individuals and families. The open enrollment period is a critical window for those who require coverage to ensure they are protected and have access to essential healthcare services in the upcoming year.\n\nTo navigate the enrollment process successfully, it's essential to understand the key details and requirements. Registering for a health plan under the ACA involves a series of steps, and individuals are encouraged to initiate the process as soon as possible to meet the impending deadline.\n\nThe ACA aims to extend health coverage to a broader population, offering a range of plans to accommodate varying needs and preferences. Whether you are a first-time enrollee or a returning participant, staying informed about the available options and potential changes is crucial for making well-informed decisions regarding your healthcare.\n\nAs the deadline approaches, health insurance agencies, advocacy groups, and community organizations often intensify their efforts to provide assistance and resources for individuals navigating the enrollment process. These initiatives aim to ensure that everyone who requires health insurance has the support they need to complete the enrollment process accurately and on time.\n\nIn conclusion, the impending deadline for open enrollment under the Affordable Care Act serves as a reminder of the importance of securing health insurance coverage for the upcoming year. Whether you are already familiar with the ACA or exploring it for the first time, taking proactive steps to enroll ensures that you can access the healthcare services you need in 2024. Stay informed, act promptly, and make the most of the available resources to complete your enrollment before the deadline.",
+    },
+
+    {
+      source: {
+        id: "business-insider",
+        name: "Business Insider",
+      },
+      category: "Health",
+      author: "Grace Dean",
+      title:
+        "Coworkers at a Kentucky hospital won $50,000 on the lottery after getting scratch cards as holiday gifts",
+      description:
+        "A group of colleagues won $50 on a ticket, so bought some more – and ultimately ended up with $50,000.",
+      urlToImage:
+        "https://i.insider.com/657afaa150edbc52a8641f47?width=1200&format=jpeg",
+      publishedAt: "2023-12-14T13:17:00Z",
+      content:
+        "In an unexpected turn of holiday festivities, a group of coworkers at a Kentucky hospital found themselves celebrating a substantial windfall after winning $50,000 on lottery scratch cards they received as holiday gifts. The serendipitous journey to this unexpected prize began when the group won a modest $50 on one of the scratch cards, prompting them to reinvest their winnings in more tickets. Little did they know that their decision would lead to a much more significant reward.\n\nThe coworkers, who initially received the scratch cards as part of their holiday gifts, experienced a mix of excitement and disbelief as they scratched their way to an unexpected fortune. What started as a casual and lighthearted activity during the holiday season transformed into a life-changing moment for the lucky group.\n\nLottery wins often come with tales of chance and spontaneity, and this particular story adds a festive twist with the scratch cards being part of holiday gifts. The randomness of winning on the first ticket and then deciding to reinvest the winnings adds an element of unpredictability to the narrative.\n\nThe $50,000 windfall serves as a heartwarming and memorable holiday surprise for the coworkers, creating a unique bond and shared experience among them. Lottery wins, especially when shared among a group of colleagues, can foster a sense of camaraderie and celebration.\n\nWhile lottery wins are relatively rare, they continue to captivate the imagination of individuals, offering a glimmer of hope and unexpected joy. In this case, what started as a simple holiday gesture turned into a remarkable and joyous occasion for the coworkers in Kentucky.\n\nThe image accompanying this story captures a moment of joy and celebration, symbolizing the unexpected and joyous turn of events for the coworkers. It reflects the shared happiness and camaraderie that such unexpected windfalls can bring to a group of individuals during the holiday season.",
     },
 
     // {
