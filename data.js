@@ -426,6 +426,7 @@ const data = {
         id: "abc-news",
         name: "ABC News",
       },
+      category: "Crime",
       author: "Jon Haworth",
       title:
         "Woman who stole 'truck filled with donuts' arrested after 2 weeks on the run",
@@ -443,6 +444,7 @@ const data = {
         id: null,
         name: "NPR",
       },
+      category: "Crime",
       author: "Meg Anderson",
       title:
         "Prisoners are suing Alabama over forced labor, calling it a 'form of slavery'",
