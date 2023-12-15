@@ -420,6 +420,41 @@ const data = {
         "In an unexpected turn of holiday festivities, a group of coworkers at a Kentucky hospital found themselves celebrating a substantial windfall after winning $50,000 on lottery scratch cards they received as holiday gifts. The serendipitous journey to this unexpected prize began when the group won a modest $50 on one of the scratch cards, prompting them to reinvest their winnings in more tickets. Little did they know that their decision would lead to a much more significant reward.\n\nThe coworkers, who initially received the scratch cards as part of their holiday gifts, experienced a mix of excitement and disbelief as they scratched their way to an unexpected fortune. What started as a casual and lighthearted activity during the holiday season transformed into a life-changing moment for the lucky group.\n\nLottery wins often come with tales of chance and spontaneity, and this particular story adds a festive twist with the scratch cards being part of holiday gifts. The randomness of winning on the first ticket and then deciding to reinvest the winnings adds an element of unpredictability to the narrative.\n\nThe $50,000 windfall serves as a heartwarming and memorable holiday surprise for the coworkers, creating a unique bond and shared experience among them. Lottery wins, especially when shared among a group of colleagues, can foster a sense of camaraderie and celebration.\n\nWhile lottery wins are relatively rare, they continue to captivate the imagination of individuals, offering a glimmer of hope and unexpected joy. In this case, what started as a simple holiday gesture turned into a remarkable and joyous occasion for the coworkers in Kentucky.\n\nThe image accompanying this story captures a moment of joy and celebration, symbolizing the unexpected and joyous turn of events for the coworkers. It reflects the shared happiness and camaraderie that such unexpected windfalls can bring to a group of individuals during the holiday season.",
     },
 
+    //Crime
+    {
+      source: {
+        id: "abc-news",
+        name: "ABC News",
+      },
+      author: "Jon Haworth",
+      title:
+        "Woman who stole 'truck filled with donuts' arrested after 2 weeks on the run",
+      description:
+        "A woman has been arrested and charged more than two weeks after she allegedly stole a truck “filled with donuts” from a service station, police say.",
+      urlToImage:
+        "https://i.abcnewsfe.com/a/df49e9be-755f-4b30-83ed-10df6f397782/donuts-rf-gty-ml-231214_1702555448892_hpMain_16x9.jpg?w=992",
+      publishedAt: "2023-12-14T16:21:42Z",
+      content:
+        "In a bizarre turn of events, a woman has been apprehended and formally charged more than two weeks after she allegedly committed the unusual crime of stealing a truck purportedly 'filled with donuts' from a service station, according to police statements.\n\nThe incident, which unfolded around 3:30 a.m., involved the daring theft of a truck loaded with the delectable treats. The woman managed to evade authorities for an extended period, creating a mystique around her unexpected escapade.\n\nLaw enforcement agencies have not provided detailed information on the circumstances of the theft or the subsequent arrest. However, the peculiar nature of the crime has captured public attention and raised numerous questions about the motivations behind such an unusual heist.\n\nThe stolen truck, described as carrying a cargo of donuts, adds an intriguing twist to the story. The motive behind targeting a vehicle laden with this specific confectionery remains unclear, adding an element of mystery to the unfolding narrative.\n\nThe arrest, coming after more than two weeks of the suspect being on the run, signals a resolution to the peculiar case. Authorities are likely to delve into the details of the incident, shedding light on the woman's motivations and the events that transpired during her time as a fugitive.\n\nThe incident has generated considerable public interest, with social media abuzz with discussions and speculations about the 'donut truck bandit.' The unusual and lighthearted nature of the crime, juxtaposed with the serious implications of theft and evasion, adds a layer of intrigue to the story.\n\nAs the legal proceedings unfold, more information is expected to emerge, providing clarity on the motive behind the theft and the circumstances leading to the arrest. The incident serves as a reminder that even seemingly innocuous crimes can capture the public's imagination, turning them into captivating stories that defy conventional expectations.\n\nFor images related to the incident, refer to the accompanying visual.",
+    },
+
+    {
+      source: {
+        id: null,
+        name: "NPR",
+      },
+      author: "Meg Anderson",
+      title:
+        "Prisoners are suing Alabama over forced labor, calling it a 'form of slavery'",
+      description:
+        "In a lawsuit filed this week, a group of current and former Alabama prisoners say they have been coerced into providing cheap labor to the state and to private employers.",
+      urlToImage:
+        "https://media.npr.org/assets/img/2023/12/13/ap23347041964179_wide-6a93e015e4f8976b87a0f75470255a62c6f4537a-s1400-c100.jpg",
+      publishedAt: "2023-12-14T10:00:22Z",
+      content:
+        "Prisoners in Alabama are taking legal action against the state, asserting that the forced labor they are subjected to constitutes a contemporary form of slavery. The lawsuit, filed this week by a group of current and former inmates, alleges that they have been coerced into providing inexpensive labor to both the state and private employers.\n\nThis legal challenge focuses on Alabama's prison labor program, which the plaintiffs argue mirrors the exploitative practices of historical slavery. The case is part of a broader movement to address the rights and treatment of incarcerated individuals, shedding light on systemic issues within the United States' criminal justice system.\n\nThe complaint filed by the prisoners contends that they have experienced forced labor, a practice they equate with a modern version of slavery. The lawsuit aims to draw attention to what the plaintiffs describe as exploitative conditions, coercion, and violations of basic human rights inherent in Alabama's prison labor system.\n\nBy bringing this legal action, the incarcerated individuals seek not only to rectify their own grievances but also to contribute to the ongoing dialogue on prison reform. Forced labor has been a contentious issue within the broader conversation on criminal justice reform, with advocates pushing for changes to address perceived injustices.\n\nAs this lawsuit unfolds, it has the potential to spark discussions and debates surrounding the treatment of prisoners, the use of forced labor, and the need for comprehensive reforms within the prison system. The legal challenge may serve as a catalyst for broader societal reflections on the state of the criminal justice system and the rights of those who are incarcerated.",
+    },
+
     // {
     //     "source": {
     //         "id": null,
