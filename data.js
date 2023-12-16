@@ -445,6 +445,7 @@ const data = {
         id: "abc-news",
         name: "ABC News",
       },
+      category: "Crime",
       author: "The Associated Press",
       title:
         "WSJ reporter Gershkovich to remain in Russian detention until end of January",
@@ -463,6 +464,7 @@ const data = {
         id: null,
         name: "NPR",
       },
+      category: "Crime",
       author: "Meg Anderson",
       title:
         "Prisoners are suing Alabama over forced labor, calling it a 'form of slavery'",
