@@ -426,6 +426,23 @@ const data = {
         id: "abc-news",
         name: "ABC News",
       },
+      author: "Aaron Katersky",
+      title:
+        "Ex-FBI counterintelligence chief faces sentencing for scheming with Russian oligarch",
+      description:
+        "Ex-FBI counterintelligence chief Charles McGonigal's sentencing to begin on Thursday.",
+      url: "https://abcnews.go.com/US/fbi-counterintelligence-chief-charles-mcgonigal-sentencing-begin/story?id=105642391",
+      urlToImage:
+        "https://i.abcnewsfe.com/a/001eb2d9-4037-40b2-9247-c22f97549f78/charles-mcgonigal-1-rt-bb-231213_1702504529577_hpMain_16x9.jpg?w=992",
+      publishedAt: "2023-12-14T13:21:12Z",
+      content:
+        "Former FBI counterintelligence chief Charles McGonigal is set to face sentencing on Thursday in a case involving alleged scheming with a Russian oligarch. McGonigal, one of the highest-ranking FBI agents to ever face criminal charges, was a former counterintelligence leader in the FBI's New York field office.\n\nThe sentencing follows McGonigal's involvement in a case that raised questions about the relationship between law enforcement officials and foreign entities. The charges against him include allegations of conspiring with a Russian oligarch, marking a significant development in the legal proceedings against a high-ranking member of the FBI.\n\nThe case has garnered attention for its implications on national security and the potential compromise of sensitive information. McGonigal's actions, as outlined in the legal proceedings, have underscored concerns about the vulnerability of law enforcement agencies to external influences.\n\nThe sentencing hearing will provide an opportunity for the court to consider the severity of the charges and the impact of McGonigal's actions. The case has prompted discussions about the need for enhanced scrutiny and safeguards within law enforcement agencies to prevent similar situations in the future.\n\nThe outcome of McGonigal's sentencing may have broader implications for the perception of the FBI and other law enforcement agencies. It will likely fuel debates about the measures in place to prevent misconduct and unauthorized collaboration with foreign entities.\n\nAs the sentencing proceedings unfold, the case serves as a reminder of the challenges faced by law enforcement agencies in maintaining public trust and preventing the abuse of power. The legal ramifications of McGonigal's actions highlight the importance of transparency and accountability within organizations responsible for national security.\n\nThe sentencing hearing is expected to shed light on the details of McGonigal's collaboration with the Russian oligarch and provide insight into the measures taken by law enforcement agencies to address potential breaches of trust. The case will be closely watched for its implications on the ongoing efforts to safeguard the integrity of the nation's security apparatus.",
+    },
+    {
+      source: {
+        id: "abc-news",
+        name: "ABC News",
+      },
       category: "Crime",
       author: "Jon Haworth",
       title:
@@ -455,6 +472,38 @@ const data = {
       publishedAt: "2023-12-14T10:00:22Z",
       content:
         "Prisoners in Alabama are taking legal action against the state, asserting that the forced labor they are subjected to constitutes a contemporary form of slavery. The lawsuit, filed this week by a group of current and former inmates, alleges that they have been coerced into providing inexpensive labor to both the state and private employers.\n\nThis legal challenge focuses on Alabama's prison labor program, which the plaintiffs argue mirrors the exploitative practices of historical slavery. The case is part of a broader movement to address the rights and treatment of incarcerated individuals, shedding light on systemic issues within the United States' criminal justice system.\n\nThe complaint filed by the prisoners contends that they have experienced forced labor, a practice they equate with a modern version of slavery. The lawsuit aims to draw attention to what the plaintiffs describe as exploitative conditions, coercion, and violations of basic human rights inherent in Alabama's prison labor system.\n\nBy bringing this legal action, the incarcerated individuals seek not only to rectify their own grievances but also to contribute to the ongoing dialogue on prison reform. Forced labor has been a contentious issue within the broader conversation on criminal justice reform, with advocates pushing for changes to address perceived injustices.\n\nAs this lawsuit unfolds, it has the potential to spark discussions and debates surrounding the treatment of prisoners, the use of forced labor, and the need for comprehensive reforms within the prison system. The legal challenge may serve as a catalyst for broader societal reflections on the state of the criminal justice system and the rights of those who are incarcerated.",
+    },
+    {
+      source: {
+        id: "abc-news",
+        name: "ABC News",
+      },
+      author: "The Associated Press",
+      title:
+        "WSJ reporter Gershkovich to remain in Russian detention until end of January",
+      description:
+        "Wall Street Journal reporter Evan Gershkovich, arrested in Russia on espionage charges, lost an appeal on Thursday to be released from jail and will remain in custody at least until Jan. 30",
+      urlToImage:
+        "https://i.abcnewsfe.com/a/cb2d7b8a-062c-413d-9e38-c0eefb3e43e3/wirestory_6bd08167fc282df96a5195707e1b1157_16x9.jpg?w=992",
+      publishedAt: "2023-12-14T12:07:19Z",
+      content:
+        "Wall Street Journal reporter Evan Gershkovich will continue to be held in Russian detention until the end of January. Gershkovich, who was arrested in Russia on espionage charges, recently lost an appeal on Thursday seeking release from jail.\n\nThe journalist's appeal was denied, and he is set to remain in custody until at least Jan. 30. This development adds to the ongoing tensions surrounding press freedom and the treatment of journalists in Russia.\n\nEvan Gershkovich's arrest and subsequent detention have raised concerns about the treatment of journalists and freedom of the press in Russia. The espionage charges against him are part of a broader trend of crackdowns on independent journalism and dissenting voices.\n\nThe Wall Street Journal reporter's case has drawn international attention, with calls for his release and concerns about the fairness of the legal proceedings. Advocacy groups and media organizations have criticized the charges as an attempt to suppress journalistic activities and restrict freedom of speech.\n\nAs Gershkovich remains in custody, the case highlights broader issues surrounding the protection of journalists and the challenges they face in reporting from regions where press freedom is under threat. The international community continues to monitor the situation closely and advocate for the release of journalists detained under questionable circumstances.\n\nThe denial of Gershkovich's appeal signals a continuation of the challenges faced by journalists reporting on sensitive topics, particularly in countries where the freedom of the press is constrained. The case underscores the importance of protecting journalists' rights and ensuring that they can carry out their work without fear of reprisal or unjust imprisonment.\n\nThe circumstances surrounding Gershkovich's arrest and the legal proceedings against him contribute to the ongoing dialogue on press freedom and the need for safeguards to protect journalists from unwarranted persecution.",
+    },
+    {
+      source: {
+        id: "abc-news",
+        name: "ABC News",
+      },
+      author: "Aaron Katersky",
+      title:
+        "Ex-FBI counterintelligence chief faces sentencing for scheming with Russian oligarch",
+      description:
+        "Ex-FBI counterintelligence chief Charles McGonigal's sentencing to begin on Thursday.",
+      urlToImage:
+        "https://i.abcnewsfe.com/a/001eb2d9-4037-40b2-9247-c22f97549f78/charles-mcgonigal-1-rt-bb-231213_1702504529577_hpMain_16x9.jpg?w=992",
+      publishedAt: "2023-12-14T13:21:12Z",
+      content:
+        "Former FBI counterintelligence chief Charles McGonigal is set to face sentencing on Thursday in a case involving alleged scheming with a Russian oligarch. McGonigal, one of the highest-ranking FBI agents to ever face criminal charges, was a former counterintelligence leader in the FBI's New York field office.\n\nThe sentencing follows McGonigal's involvement in a case that raised questions about the relationship between law enforcement officials and foreign entities. The charges against him include allegations of conspiring with a Russian oligarch, marking a significant development in the legal proceedings against a high-ranking member of the FBI.\n\nThe case has garnered attention for its implications on national security and the potential compromise of sensitive information. McGonigal's actions, as outlined in the legal proceedings, have underscored concerns about the vulnerability of law enforcement agencies to external influences.\n\nThe sentencing hearing will provide an opportunity for the court to consider the severity of the charges and the impact of McGonigal's actions. The case has prompted discussions about the need for enhanced scrutiny and safeguards within law enforcement agencies to prevent similar situations in the future.\n\nThe outcome of McGonigal's sentencing may have broader implications for the perception of the FBI and other law enforcement agencies. It will likely fuel debates about the measures in place to prevent misconduct and unauthorized collaboration with foreign entities.\n\nAs the sentencing proceedings unfold, the case serves as a reminder of the challenges faced by law enforcement agencies in maintaining public trust and preventing the abuse of power. The legal ramifications of McGonigal's actions highlight the importance of transparency and accountability within organizations responsible for national security.\n\nThe sentencing hearing is expected to shed light on the details of McGonigal's collaboration with the Russian oligarch and provide insight into the measures taken by law enforcement agencies to address potential breaches of trust. The case will be closely watched for its implications on the ongoing efforts to safeguard the integrity of the nation's security apparatus.",
     },
 
     // {
