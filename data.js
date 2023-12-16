@@ -426,6 +426,7 @@ const data = {
         id: "abc-news",
         name: "ABC News",
       },
+      category: "Crime",
       author: "Aaron Katersky",
       title:
         "Ex-FBI counterintelligence chief faces sentencing for scheming with Russian oligarch",
