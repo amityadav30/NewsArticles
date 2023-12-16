@@ -374,6 +374,7 @@ const data = {
       },
       category: "Health",
       author: "https://www.facebook.com/bbcnews",
+      url: "https://www.bbc.co.uk/news/health-67703066",
       title: "Decades-long decline in smoking stalls in England",
       description:
         "The number of adults giving up more than doubled but many young adults started smoking, researchers say.",
@@ -391,6 +392,7 @@ const data = {
       },
       category: "Health",
       author: "Katie Teague",
+      url: "https://www.cnet.com/health/open-enrollment-for-affordable-care-act-health-insurance-ends-tomorrow-what-to-know/",
       title:
         "Open Enrollment for Affordable Care Act Health Insurance Ends Tomorrow. What to Know",
       description:
@@ -409,6 +411,7 @@ const data = {
       },
       category: "Health",
       author: "Grace Dean",
+      url: "https://www.businessinsider.com/kentucky-coworkers-won-lottery-scratch-cards-gifts-prize-money-holiday-2023-12",
       title:
         "Coworkers at a Kentucky hospital won $50,000 on the lottery after getting scratch cards as holiday gifts",
       description:
