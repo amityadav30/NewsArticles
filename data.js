@@ -65,7 +65,7 @@ const data = {
         "WatchOS 10 lets you import custom workouts from apps like TrainingPeaks straight to the Apple Watch.",
       url: "https://www.cnet.com/tech/mobile/i-trained-with-a-champion-cyclist-to-test-apple-watchs-custom-workouts/",
       urlToImage:
-        "https://www.cnet.com/a/img/resize/4fadcfddaa9b3372fa567da822ff650ac98e9c89/hub/2023/12/11/da93ae9c-92b7-4475-97fc-4ec54bcec8c7/trainingpeaks-applewatch-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra2-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693611639254",
       publishedAt: "2023-12-14T14:00:08Z",
       content:
         "Athletes at every level have long relied on the Apple Watch to monitor their workouts, and with the advancements brought by WatchOS 10, the capabilities have reached new heights. In a recent exploration, CNET author Lexy Savvides delves into the realm of custom workouts facilitated by platforms like TrainingPeaks on the Apple Watch. The article, titled I Trained With a Champion Cyclist to Test Apple Watch's Custom Workouts, takes readers on a journey through the enhanced features offered by WatchOS 10. Specifically, it highlights how platforms like TrainingPeaks now empower users to import personalized workout regimens directly to their Apple Watches. The focus of the piece is an experiential account as Lexy Savvides undergoes training alongside a champion cyclist to rigorously test the capabilities of the Apple Watch's custom workouts. The training sessions become a proving ground for the efficiency and adaptability of WatchOS 10, showcasing how athletes can tailor their workout routines to meet specific needs and goals. The article emphasizes the broader significance of this technological advancement for athletes of varying skill levels. From professional cyclists to fitness enthusiasts, the ability to integrate custom workouts directly onto the Apple Watch introduces a new level of flexibility and personalization. Published on December 14, 2023, the article is timely and aligns with the current technological landscape. The accompanying image provides a visual glimpse into the intersection of technology and fitness, with the Apple Watch taking center stage in this evolving narrative. The content not only informs readers about the technical aspects of WatchOS 10 but also immerses them in a real-world scenario, showcasing the practical application of these features. As users increasingly seek holistic fitness solutions, the Apple Watch's evolution into a platform for customized workouts becomes a compelling story in the ever-evolving realm of wearable technology. In conclusion, Lexy Savvides' exploration into training with a champion cyclist using the Apple Watch's custom workouts offers a blend of informative insights and experiential storytelling. As technology continues to intertwine with fitness, this article stands as a testament to the Apple Watch's role in shaping the future of personalized workout experiences.",
@@ -73,19 +73,22 @@ const data = {
     {
       source: {
         id: null,
-        name: "ReadWrite",
+        name: "The Onion",
       },
-      category: "Sports",
-      author: "Paul McNally",
-      title: "EAFC 24 players leaked ahead of TOTGS promo",
+      category: "Car",
+      author: "ji39f8deollek3",
+      title:
+        "Toyota Asserts Ownership of Babies Conceived in Backseats of Their Cars",
       description:
-        "As the group stages of European soccer’s elite Champion’s League competition draw to a conclusion, leaks suggest that EA Sports […]\nThe post EAFC 24 players leaked ahead of TOTGS promo appeared first on ReadWrite.",
-      url: "https://readwrite.com/eafc-24-players-leaked-ahead-of-totgs-promo/",
-      urlToImage: "https://readwrite.com/wp-content/uploads/2023/12/totgs.jpg",
-      publishedAt: "2023-12-14T09:45:32Z",
+        "Toyota City, Japan—In a surprising revelation, Toyota declared that any babies conceived in the backseats of their cars automatically belong to the company. The announcement humorously suggests that this unusual claim is part of the purchase agreement for every Toyota vehicle, adding a lighthearted touch to the brand's image.",
+      url: "https://www.theonion.com/toyota-reveals-that-any-babies-conceived-in-backseats-o-1851088499",
+      urlToImage:
+        "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/33698d9eb0f320501189ce94c8b2a12d.jpg",
+      publishedAt: "2023-12-14T12:30:00Z",
       content:
-        "As the group stages of the elite Champions League competition in European soccer approach their conclusion, a recent leak suggests that EA Sports is preparing for a player promo featuring the Team of the Group Stage (TOTGS). The leaked information, authored by Paul McNally and featured on ReadWrite, unveils details about the potential EAFC 24 players ahead of the TOTGS promo. The article titled EAFC 24 Players Leaked Ahead of TOTGS Promo provides a sneak peek into the speculated list of players who may be part of this promotional event in the popular EA Sports FIFA video game series. Published on December 14, 2023, the timing coincides with the culmination of the Champions League group stages, adding to the intrigue surrounding the potential player selections. The leaked information is a tantalizing glimpse into what FIFA gaming enthusiasts can expect in the upcoming TOTGS promo. With the Champions League being a pinnacle in European football, the inclusion of standout performers in the virtual realm further enhances the gaming experience for fans of the sport. The article not only reports on the leaked details but also hints at the anticipation and excitement among the gaming community as they await the official confirmation of the TOTGS player lineup. The image accompanying the article, featuring the TOTGS logo, adds a visual element that resonates with FIFA players familiar with the iconic branding. Paul McNally's authorship lends credibility to the information presented, and the content maintains a concise and informative tone. It serves as a valuable resource for FIFA enthusiasts seeking the latest updates on player promotions within the game. In conclusion, EAFC 24 Players Leaked Ahead of TOTGS Promo from ReadWrite offers a snapshot of the buzz surrounding the FIFA gaming community. As the Champions League group stages reach a climax, the leaked information sparks excitement among gamers, setting the stage for the much-anticipated Team of the Group Stage promo in EA Sports' FIFA series.",
+        "TOYOTA CITY, JAPAN—In a quirky and humorous twist, Toyota announced on Thursday that according to their purchase agreement, any babies conceived in the backseats of their cars automatically become the property of the company. This tongue-in-cheek policy adds a playful element to Toyota's brand identity, showcasing their sense of humor in the automotive industry.\n\nThe announcement, which might initially sound absurd, is, in fact, a satirical piece from The Onion, a well-known satire news outlet. The Onion is renowned for its fictional and exaggerated stories that parody real-world events and news. This particular story is no exception, blending a fictional scenario with a humorous take on corporate ownership claims.\n\nToyota, a major player in the global automotive industry, is playfully portrayed as staking a claim on infants conceived in the backseats of their cars. The choice of subject matter combines the mundane act of conceiving in a car with the outlandish idea of a corporation asserting ownership over the offspring of its customers.\n\nThe humor in this piece stems from the juxtaposition of the ordinary act of conceiving a child with the absurd notion that a company like Toyota would make such a claim. It's a creative way for The Onion to poke fun at corporate practices and consumer agreements, highlighting the often complex and unread terms buried in the fine print of contracts.\n\nWhile the article is entirely fictional, it cleverly satirizes corporate policies and the sometimes overlooked details in legal agreements. The absurdity of the claim reinforces the importance of reading contracts thoroughly and being aware of the terms to which one agrees, even in seemingly routine transactions like purchasing a car.\n\nIn conclusion, The Onion's satirical take on Toyota's assertion of ownership over babies conceived in their cars provides a humorous commentary on corporate practices and the sometimes obscure details within purchase agreements. The fictional scenario serves as a reminder to approach humorous news outlets with a discerning eye and to find amusement in the absurdity of the stories they create.",
     },
+
     {
       source: {
         id: "bleacher-report",
@@ -106,6 +109,25 @@ const data = {
     },
     {
       source: {
+        id: "business-insider",
+        name: "Business Insider",
+      },
+      category: "Car",
+      author: "Kevin Williams",
+      title:
+        "Tesla Cybertruck Poses Challenges for Repairs and Insurance, Experts Warn",
+      description:
+        "Tesla Cybertruck owners may face difficulties in insurance and repairs, according to warnings from body shop technicians, insurance agents, and enthusiasts. The unique design and construction of the Cybertruck present challenges that could complicate repair processes and insurance coverage.",
+      url: "https://www.businessinsider.com/tesla-cybertruck-owners-in-for-an-insurance-and-repair-nightmare-2023-12",
+      urlToImage:
+        "https://i.insider.com/6578cdc80ec98e92f74ebb58?width=1200&format=jpeg",
+      publishedAt: "2023-12-14T14:14:29Z",
+      content:
+        "Owners of Tesla's Cybertruck may find themselves navigating a challenging landscape when it comes to insurance and repairs, as highlighted by insights from body shop technicians, insurance agents, and even DeLorean enthusiasts. The unconventional design and construction of the Cybertruck pose unique challenges that could complicate repair processes and impact insurance coverage.\n\nElon Musk claims that the Cybertruck's hard surface is highly damage-resistant, but until a significant number of these vehicles are on the road, the full extent of repair challenges remains uncertain. The angular, stainless steel exoskeleton, while providing a distinctive and robust appearance, could lead to complexities in repairing dents and damages, raising concerns among experts about the practicality and cost of repairs.\n\nInsurance agents anticipate potential difficulties in assessing the value of repairs and determining insurance premiums due to the lack of historical data and precedents for the Cybertruck. As the electric vehicle market continues to evolve, the Cybertruck's distinct characteristics present an intriguing but challenging frontier for both the automotive repair industry and insurance providers.\n\nOwners and insurers will likely closely monitor how repair shops adapt to the unique demands of the Cybertruck and how insurance policies are tailored to address its specific design and materials. The evolving nature of electric vehicle technology, coupled with innovative designs like the Cybertruck, underscores the need for continuous adaptation and specialization in both the repair and insurance sectors.",
+    },
+
+    {
+      source: {
         id: "bleacher-report",
         name: "Bleacher Report",
       },
@@ -121,6 +143,24 @@ const data = {
       publishedAt: "2023-12-14T21:58:40Z",
       content:
         "Pitcher Yoshinobu Yamamoto is meeting with representatives of the Philadelphia Phillies Thursday, according to the New York Post's Jon Heyman.\r\nThat's not the only team the free-agent pitcher has on his schedule, though. With rumors swirling, Yamamoto is reportedly generating interest from multiple Major League Baseball teams, including the Los Angeles Dodgers and the New York Yankees.\r\nThe meeting with the Phillies is a significant development in Yamamoto's free agency journey. Teams are eager to secure the services of the talented pitcher, and the Phillies are actively exploring the possibility of adding him to their roster.\r\nYoshinobu Yamamoto has garnered attention for his impressive skills on the mound, and his performance has made him a sought-after free agent in the MLB market. As the offseason progresses, more teams are likely to express interest in signing him, making his decision an intriguing storyline to follow for baseball fans.\r\nThe competition among teams for top-tier free agents adds an extra layer of excitement to the MLB offseason. With the Phillies, Dodgers, and Yankees reportedly in the mix for Yoshinobu Yamamoto, fans will be watching closely to see where the talented pitcher ultimately decides to take his talents for the upcoming season.",
+    },
+    {
+      source: {
+        id: "business-insider",
+        name: "Business Insider",
+      },
+      category: "Car",
+      author: "Tom Carter",
+      title:
+        "Swedish Union to Halt Trash Collection from Tesla's Workshops in Solidarity with Striking Workers",
+      description:
+        "Sweden's Transport Workers Union has announced it will cease trash collection from Tesla's workshops in a show of solidarity for striking workers, potentially leading to garbage pileups at the company's facilities.",
+      url: "https://www.businessinsider.com/tesla-faces-trash-pileup-swedish-workshops-over-strikes-unions-2023-12",
+      urlToImage:
+        "https://i.insider.com/657ad7097a3c8094d5dcd940?width=1200&format=jpeg",
+      publishedAt: "2023-12-14T11:36:50Z",
+      content:
+        "Tesla is now facing the unpleasant prospect of overflowing garbage cans after Sweden's Transport Workers Union said it would stop collecting trash from the company's workshops.\n\nElon Musk has called the strike action by Swedish workers \"insane.\" The decision by the union to halt trash collection is part of a broader show of solidarity with the ongoing strikes affecting Tesla's operations.\n\nThe move by the Swedish union adds another layer of pressure on Tesla during a period of industrial unrest. The company has been dealing with strikes and worker dissatisfaction, and the garbage pileup is a tangible consequence of the labor disputes. Elon Musk, Tesla's CEO, has expressed frustration with the strikes, describing them as \"insane.\" The situation highlights the challenges that companies may face in managing labor relations and maintaining regular operations during periods of worker strikes and protests.",
     },
     {
       source: {
@@ -224,7 +264,8 @@ const data = {
       description:
         "Meta's Threads has finally arrived in Europe over five months after it launched in the US, UK and elsewhere around the world. Following a countdown and Instagram teaser invitation, the app is now officially available in the bloc on iOS, Android and the web.\nT…",
       url: "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaf01336-0df9-409b-ab18-2109a85373bd",
-      urlToImage: null,
+      urlToImage:
+        "https://cdn.britannica.com/67/367-050-CCA16287/Europe-political-boundaries-continent.jpg",
       publishedAt: "2023-12-14T11:07:47Z",
       content:
         "Meta's Threads has made its long-awaited debut in Europe, marking a significant milestone for the social media platform. The article authored by Steve Dent and featured on Yahoo Entertainment, titled Threads Finally Launches in Europe, provides a concise overview of the app's arrival in the European market. Published on December 14, 2023, the article captures the essence of Threads' expansion into Europe, shedding light on the anticipation that preceded the launch. Steve Dent reports that the app is now officially available in the bloc, encompassing iOS, Android, and web platforms. While the article lacks a specific image, the content compensates by delivering the crucial details in a succinct manner. It touches upon the countdown, Instagram teaser invitation, and the widespread availability of Threads across different devices. Steve Dent's authorship lends credibility to the information, and the content maintains an informative tone, keeping readers abreast of the latest developments in the tech and social media landscape. In conclusion, Threads Finally Launches in Europe from Yahoo Entertainment acts as a quick and informative update for readers interested in the expansion of Meta's Threads. As the app extends its reach, the article serves as a snapshot of this pivotal moment in the app's journey and its impact on social media users in Europe.",
@@ -707,7 +748,7 @@ const data = {
         "Seahawks quarterback Geno Smith is trending in the right direction to play against the Eagles on Monday night.",
       url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-will-practice-thursday",
       urlToImage:
-        "https://nbcsports.brightspotcdn.com/dims4/default/57518a3/2147483647/strip/true/crop/8640x4860+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F2f%2F6650faa54b6891754de65880ee9b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1830704545",
+        "https://images.seattletimes.com/wp-content/uploads/2022/10/10052022_GENO_091019.jpg?d=780x559",
       publishedAt: "2023-12-14T20:34:21Z",
       content:
         "Seahawks quarterback Geno Smith is making positive strides toward playing against the Eagles on Monday night. Despite missing last Sunday's game against the 49ers due to a groin injury, Smith is set to practice on Thursday, signaling a potential return to the field.\n\nThe Seahawks faced challenges in the absence of Smith during the previous game, and his return could significantly impact the team's performance against the Eagles. Smith's presence on the field brings experience and leadership to the Seahawks' offensive lineup, and fans are eager to see him back in action.\n\nCoach Pete Carroll expressed optimism about Smith's recovery, stating, \"Geno has been working hard to get back on the field. We'll see how he performs in practice on Thursday, and if all goes well, he's likely to be in contention for Monday night's game against the Eagles.\" Carroll emphasized the importance of having a healthy and capable quarterback, especially in crucial matchups like the upcoming one against Philadelphia.\n\nThe Seahawks are currently in the midst of a challenging season, and securing a victory against the Eagles is crucial for their playoff aspirations. While backup quarterback Alex McGough filled in admirably during Smith's absence, having the starting quarterback back enhances the team's offensive capabilities.\n\nGeno Smith's impact goes beyond his on-field performance; he plays a vital role in guiding and mentoring the younger players on the team. His experience in the league brings a valuable perspective, and his leadership qualities contribute to the overall cohesion of the Seahawks' roster.\n\nIn addition to Smith's potential return, the Seahawks are working on refining their strategies and addressing areas that need improvement. The coaching staff is focused on optimizing the team's performance in all facets of the game, from offense to defense and special teams.\n\nThe matchup against the Eagles is anticipated to be a closely contested battle, with both teams vying for a pivotal win late in the season. The return of Geno Smith adds an extra layer of intrigue to the game, as fans eagerly await his presence on the field.\n\nAs the Seahawks gear up for a critical stretch of games, including the Monday night clash with the Eagles, the team is determined to make a push for the playoffs. Geno Smith's comeback could be a defining factor in the Seahawks' quest for postseason success.\n\nIn conclusion, Geno Smith's imminent return to practice brings hope and anticipation to the Seahawks' fanbase. The quarterback's potential availability for Monday night's game against the Eagles injects excitement into a crucial juncture of the season. Whether Smith takes the field or not, his presence has already made a positive impact on the team, showcasing the resilience and determination that characterize the Seahawks' pursuit of success in the 2023 NFL season.",
@@ -931,42 +972,6 @@ const data = {
       content:
         "General Motors' Cruise, the autonomous vehicle division, has taken decisive action by dismissing nine executives, including Chief Operating Officer Gil West, amid an ongoing safety investigation. This development comes after a comprehensive safety review initiated by the company following an incident during autonomous vehicle testing.\n\nThe safety probe led to significant changes within Cruise, with CEO Kyle Vogt and co-founder Dan Kan resigning in recent weeks. The company is also preparing for a round of layoffs later this month. These measures indicate a concerted effort by Cruise to address safety concerns and reshape its leadership and workforce for the future.\n\nThe autonomous vehicle industry has faced challenges related to safety, and incidents during testing have prompted companies to reevaluate their approaches. Cruise's response to the safety investigation underscores the importance of prioritizing safety in the development and deployment of autonomous vehicles, and the company is likely to focus on enhancing safety protocols and regaining public trust in its technology.",
     },
-    {
-      source: {
-        id: "business-insider",
-        name: "Business Insider",
-      },
-      category: "Car",
-      author: "Tom Carter",
-      title:
-        "Swedish Union to Halt Trash Collection from Tesla's Workshops in Solidarity with Striking Workers",
-      description:
-        "Sweden's Transport Workers Union has announced it will cease trash collection from Tesla's workshops in a show of solidarity for striking workers, potentially leading to garbage pileups at the company's facilities.",
-      url: "https://www.businessinsider.com/tesla-faces-trash-pileup-swedish-workshops-over-strikes-unions-2023-12",
-      urlToImage:
-        "https://i.insider.com/657ad7097a3c8094d5dcd940?width=1200&format=jpeg",
-      publishedAt: "2023-12-14T11:36:50Z",
-      content:
-        "Tesla is now facing the unpleasant prospect of overflowing garbage cans after Sweden's Transport Workers Union said it would stop collecting trash from the company's workshops.\n\nElon Musk has called the strike action by Swedish workers \"insane.\" The decision by the union to halt trash collection is part of a broader show of solidarity with the ongoing strikes affecting Tesla's operations.\n\nThe move by the Swedish union adds another layer of pressure on Tesla during a period of industrial unrest. The company has been dealing with strikes and worker dissatisfaction, and the garbage pileup is a tangible consequence of the labor disputes. Elon Musk, Tesla's CEO, has expressed frustration with the strikes, describing them as \"insane.\" The situation highlights the challenges that companies may face in managing labor relations and maintaining regular operations during periods of worker strikes and protests.",
-    },
-    {
-      source: {
-        id: "business-insider",
-        name: "Business Insider",
-      },
-      category: "Car",
-      author: "Kevin Williams",
-      title:
-        "Tesla Cybertruck Poses Challenges for Repairs and Insurance, Experts Warn",
-      description:
-        "Tesla Cybertruck owners may face difficulties in insurance and repairs, according to warnings from body shop technicians, insurance agents, and enthusiasts. The unique design and construction of the Cybertruck present challenges that could complicate repair processes and insurance coverage.",
-      url: "https://www.businessinsider.com/tesla-cybertruck-owners-in-for-an-insurance-and-repair-nightmare-2023-12",
-      urlToImage:
-        "https://i.insider.com/6578cdc80ec98e92f74ebb58?width=1200&format=jpeg",
-      publishedAt: "2023-12-14T14:14:29Z",
-      content:
-        "Owners of Tesla's Cybertruck may find themselves navigating a challenging landscape when it comes to insurance and repairs, as highlighted by insights from body shop technicians, insurance agents, and even DeLorean enthusiasts. The unconventional design and construction of the Cybertruck pose unique challenges that could complicate repair processes and impact insurance coverage.\n\nElon Musk claims that the Cybertruck's hard surface is highly damage-resistant, but until a significant number of these vehicles are on the road, the full extent of repair challenges remains uncertain. The angular, stainless steel exoskeleton, while providing a distinctive and robust appearance, could lead to complexities in repairing dents and damages, raising concerns among experts about the practicality and cost of repairs.\n\nInsurance agents anticipate potential difficulties in assessing the value of repairs and determining insurance premiums due to the lack of historical data and precedents for the Cybertruck. As the electric vehicle market continues to evolve, the Cybertruck's distinct characteristics present an intriguing but challenging frontier for both the automotive repair industry and insurance providers.\n\nOwners and insurers will likely closely monitor how repair shops adapt to the unique demands of the Cybertruck and how insurance policies are tailored to address its specific design and materials. The evolving nature of electric vehicle technology, coupled with innovative designs like the Cybertruck, underscores the need for continuous adaptation and specialization in both the repair and insurance sectors.",
-    },
 
     {
       source: {
@@ -986,24 +991,7 @@ const data = {
       content:
         'The National Highway Transportation Safety Administration (NHTSA) has initiated the public comment phase for its proposed "Advanced Impaired Driving Prevention Technology." This proposal advocates for the mandatory inclusion of anti-drunk-driving technology in vehicles.\n\nStakeholders and the public now have the opportunity to provide their comments and feedback on this initiative. The proposal aims to enhance road safety by implementing technology that can prevent impaired driving incidents. Interested parties are encouraged to participate in the public comment process to share their perspectives on the potential benefits and challenges associated with integrating anti-drunk-driving tech into vehicles.\n\nFor more details or to submit comments, visit the [NHTSA\'s official proposal page](https://www.regulations.gov/document/NHTSA-2023-0071-0001).',
     },
-    {
-      source: {
-        id: null,
-        name: "The Onion",
-      },
-      category: "Car",
-      author: "ji39f8deollek3",
-      title:
-        "Toyota Asserts Ownership of Babies Conceived in Backseats of Their Cars",
-      description:
-        "Toyota City, Japan—In a surprising revelation, Toyota declared that any babies conceived in the backseats of their cars automatically belong to the company. The announcement humorously suggests that this unusual claim is part of the purchase agreement for every Toyota vehicle, adding a lighthearted touch to the brand's image.",
-      url: "https://www.theonion.com/toyota-reveals-that-any-babies-conceived-in-backseats-o-1851088499",
-      urlToImage:
-        "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/33698d9eb0f320501189ce94c8b2a12d.jpg",
-      publishedAt: "2023-12-14T12:30:00Z",
-      content:
-        "TOYOTA CITY, JAPAN—In a quirky and humorous twist, Toyota announced on Thursday that according to their purchase agreement, any babies conceived in the backseats of their cars automatically become the property of the company. This tongue-in-cheek policy adds a playful element to Toyota's brand identity, showcasing their sense of humor in the automotive industry.\n\nThe announcement, which might initially sound absurd, is, in fact, a satirical piece from The Onion, a well-known satire news outlet. The Onion is renowned for its fictional and exaggerated stories that parody real-world events and news. This particular story is no exception, blending a fictional scenario with a humorous take on corporate ownership claims.\n\nToyota, a major player in the global automotive industry, is playfully portrayed as staking a claim on infants conceived in the backseats of their cars. The choice of subject matter combines the mundane act of conceiving in a car with the outlandish idea of a corporation asserting ownership over the offspring of its customers.\n\nThe humor in this piece stems from the juxtaposition of the ordinary act of conceiving a child with the absurd notion that a company like Toyota would make such a claim. It's a creative way for The Onion to poke fun at corporate practices and consumer agreements, highlighting the often complex and unread terms buried in the fine print of contracts.\n\nWhile the article is entirely fictional, it cleverly satirizes corporate policies and the sometimes overlooked details in legal agreements. The absurdity of the claim reinforces the importance of reading contracts thoroughly and being aware of the terms to which one agrees, even in seemingly routine transactions like purchasing a car.\n\nIn conclusion, The Onion's satirical take on Toyota's assertion of ownership over babies conceived in their cars provides a humorous commentary on corporate practices and the sometimes obscure details within purchase agreements. The fictional scenario serves as a reminder to approach humorous news outlets with a discerning eye and to find amusement in the absurdity of the stories they create.",
-    },
+
     {
       source: {
         id: null,
@@ -1021,6 +1009,22 @@ const data = {
       publishedAt: "2023-12-14T18:20:33Z",
       content:
         "As urban areas continue to grapple with traffic congestion and environmental concerns, the need for sustainable and efficient cargo transportation solutions has never been more pronounced. In response to this challenge, a groundbreaking utilitarian electric scooter has emerged as a cost-effective and faster alternative, providing businesses with an eco-friendly means of addressing last-mile delivery demands.\n\nThe shift in focus from traditional cargo vans to more nimble cargo-hauling bikes and scooters reflects a broader trend in urban logistics. Businesses are recognizing the advantages of compact and agile vehicles for navigating congested city streets, especially when it comes to delivering goods to the final destination.\n\nThe introduced electric scooter stands out as a versatile and practical solution for urban cargo transportation. Its compact design allows it to maneuver through tight spaces, making it ideal for densely populated urban environments. With zero emissions during operation, the scooter aligns with the growing emphasis on sustainability and reducing the carbon footprint associated with transportation.\n\nOne of the key advantages of this electric scooter is its cost-effectiveness. Traditional cargo vehicles often come with high operating costs, including fuel expenses and maintenance. In contrast, electric scooters benefit from lower operational costs and reduced environmental impact. Businesses can not only contribute to environmental conservation but also improve their bottom line by adopting such sustainable transportation solutions.\n\nTo delve deeper into the features and specifications of this utilitarian electric scooter, you can explore the full article on [Yanko Design](https://www.yankodesign.com/2023/12/14/this-utilitarian-electric-scooter-is-economical-and-faster-way-to-move-cargo-in-urban-locales/). The article provides insights into how this innovative solution is reshaping urban cargo transportation and contributing to the ongoing efforts to create greener and more efficient cities.",
+    },
+    {
+      source: {
+        id: null,
+        name: "ReadWrite",
+      },
+      category: "Sports",
+      author: "Paul McNally",
+      title: "EAFC 24 players leaked ahead of TOTGS promo",
+      description:
+        "As the group stages of European soccer’s elite Champion’s League competition draw to a conclusion, leaks suggest that EA Sports […]\nThe post EAFC 24 players leaked ahead of TOTGS promo appeared first on ReadWrite.",
+      url: "https://readwrite.com/eafc-24-players-leaked-ahead-of-totgs-promo/",
+      urlToImage: "https://readwrite.com/wp-content/uploads/2023/12/totgs.jpg",
+      publishedAt: "2023-12-14T09:45:32Z",
+      content:
+        "As the group stages of the elite Champions League competition in European soccer approach their conclusion, a recent leak suggests that EA Sports is preparing for a player promo featuring the Team of the Group Stage (TOTGS). The leaked information, authored by Paul McNally and featured on ReadWrite, unveils details about the potential EAFC 24 players ahead of the TOTGS promo. The article titled EAFC 24 Players Leaked Ahead of TOTGS Promo provides a sneak peek into the speculated list of players who may be part of this promotional event in the popular EA Sports FIFA video game series. Published on December 14, 2023, the timing coincides with the culmination of the Champions League group stages, adding to the intrigue surrounding the potential player selections. The leaked information is a tantalizing glimpse into what FIFA gaming enthusiasts can expect in the upcoming TOTGS promo. With the Champions League being a pinnacle in European football, the inclusion of standout performers in the virtual realm further enhances the gaming experience for fans of the sport. The article not only reports on the leaked details but also hints at the anticipation and excitement among the gaming community as they await the official confirmation of the TOTGS player lineup. The image accompanying the article, featuring the TOTGS logo, adds a visual element that resonates with FIFA players familiar with the iconic branding. Paul McNally's authorship lends credibility to the information presented, and the content maintains a concise and informative tone. It serves as a valuable resource for FIFA enthusiasts seeking the latest updates on player promotions within the game. In conclusion, EAFC 24 Players Leaked Ahead of TOTGS Promo from ReadWrite offers a snapshot of the buzz surrounding the FIFA gaming community. As the Champions League group stages reach a climax, the leaked information sparks excitement among gamers, setting the stage for the much-anticipated Team of the Group Stage promo in EA Sports' FIFA series.",
     },
 
     // {
